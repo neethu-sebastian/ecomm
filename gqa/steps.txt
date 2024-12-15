@@ -1,0 +1,10 @@
+install java and set system variable and path
+install eclipse ide
+create a work space in your computer 
+open eclipse workspace
+open commandline and switch to workspace
+git init 
+git remote add origin https://github.com/neethu/ecomm.git
+git remote -v
+git add .
+git commit -m "Initial commit"
